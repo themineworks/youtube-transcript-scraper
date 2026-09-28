@@ -5,7 +5,7 @@ Fetch timestamped YouTube transcripts and captions as clean JSON without any API
 **Run it on Apify:** [apify.com/themineworks/youtube-transcript-scraper](https://apify.com/themineworks/youtube-transcript-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/youtube-transcript-scraper](https://themineworks.com/actors/youtube-transcript-scraper/)
 
-**Price:** $2.50 per 1,000 transcripts on Apify's free plan, down to $1.50 on higher plans. Failed and empty results are never charged.
+**Price:** From $1.50 per 1,000 transcripts on Apify's higher plans ($2.50 on the free plan). Failed and empty results are never charged.
 
 ## What it returns
 
@@ -142,7 +142,7 @@ The actor picks the track that best matches your preferred language. It tries an
 
 ### How much does the YouTube Transcript Downloader cost?
 
-$2.50 per 1,000 transcripts on Apify's free plan, down to $1.50 on higher plans. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
+From $1.50 per 1,000 transcripts on Apify's higher plans ($2.50 on the free plan). Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
 
 ### Can I export the results to CSV or Excel?
 
